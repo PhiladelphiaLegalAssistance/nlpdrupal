@@ -1,0 +1,13 @@
+textarea.freetextarea {
+    width: 100%;
+    height: 6em;
+    margin: 0 0 20px 0;
+}
+
+div.freetextresponsesection {
+    background-color: #FFFACD;
+}
+
+span.userfreetext {
+    font-style: italic;
+}
